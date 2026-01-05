@@ -4,7 +4,7 @@ In this repository you can find the SDK for Radaxa boards. These SDKs are used t
 
 <details>
 
-<sumary>Rock Pi S board</summary>
+<summary>Rock Pi S board</summary>
 
 ## SDK for Rock Pi S board
 
