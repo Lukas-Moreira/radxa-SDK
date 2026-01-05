@@ -55,3 +55,15 @@ Compile yours applications usingthe following command:
     ./build-rpis.scripts.sh <file_source.c> <output_file> 
 ```
 </details>
+
+---
+
+## About the author
+
+Hello! My name is Lukas Moreira, I'm a systems developer and embedded systems enthusiast.
+
+## Contact
+
+Name: Moreira, Lukas
+Email: lukasmoreira@ufam.edu.br
+Linkedin: www.linkedin.com/in/lukas-moreira-dev
